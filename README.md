@@ -70,7 +70,7 @@ Here is a run through of how to set up the application:
 * **Step 6** : On terminal, run the following command, **`chmod a+x start.sh`**
     * You can now launch the application locally by running the command **`./start.sh`** 
 
-## Support and contact details
+## Support and Contact details
 You can provide feedback or raise any issues/ bugs through the following means:
 * maxwellmuthomijr@gmail.com
 
